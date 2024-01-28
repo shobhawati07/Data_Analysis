@@ -1,5 +1,5 @@
 # Data_Analysis
-AILED ORDER ANALYSIS
+FAILED ORDER ANALYSIS
 
 INTRODUCTION: Gett, previously known as GetTaxi, is an Israeli-developed technology platform solely focused on corporate Ground Transportation Management (GTM). They have an application where clients can order taxis, and drivers can accept their rides (offers). At the moment, when the client clicks the Order button in the application, the matching system searches for the most relevant drivers and offers them the order
 
