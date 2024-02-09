@@ -1,5 +1,5 @@
 # Data_Analysis
-FAILED ORDER ANALYSIS
+FAILED ORDER ANALYSIS:
 
 INTRODUCTION: Gett, previously known as GetTaxi, is an Israeli-developed technology platform solely focused on corporate Ground Transportation Management (GTM). They have an application where clients can order taxis, and drivers can accept their rides (offers). At the moment, when the client clicks the Order button in the application, the matching system searches for the most relevant drivers and offers them the order
 
@@ -42,4 +42,6 @@ The maximum estimated time for order completion was observed to be 25 minutes fr
 
 Time of Day for Order Cancellations:
 
-On average, orders canceled by clients tended to peak around 1 PM in the afternoon. In contrast, orders canceled by the system had a different pattern, with the highest occurrence observed around 6 AM.er. nt.se.ent.
+On average, orders canceled by clients tended to peak around 1 PM in the afternoon. In contrast, orders canceled by the system had a different pattern, with the highest occurrence observed around 6 AM morning
+
+
